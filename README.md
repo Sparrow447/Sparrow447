@@ -7,12 +7,12 @@
 ## who am i?
 
 BSc Information Technology @ OsloMet, Norway.
-Full-stack developer building real products — currently focused on the Thai market.
+Full-stack developer building real products currently focused on the Thai market.
 
 ## what am i working on?
 
-- **66App** — Fashion social commerce platform for Thai Gen Z · Flutter + Go
-- **Aroy** — Workplace celebration SaaS for Thailand · Next.js + Node.js
+- **66App** - Fashion social commerce platform for Thai Gen Z · Flutter + Go
+- **Aroy** - Workplace celebration SaaS for Thailand · Next.js + Node.js
 
 ## tools i use
 
@@ -36,14 +36,6 @@ Full-stack developer building real products — currently focused on the Thai ma
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sparrow447&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## reach me
 
