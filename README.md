@@ -37,6 +37,16 @@ Full-stack developer building real products — currently focused on the Thai ma
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## stats
+
+<div align="center">
+
+![Sparrow447's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sparrow447&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparrow447&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 ## reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selmer-j-solland-12505a251/)
