@@ -8,3 +8,8 @@
 
 BSc Information Technology @ OsloMet, Norway.
 Full-stack developer building real products — currently focused on the Thai market.
+
+## what am i working on?
+
+- **[66App](https://github.com/66App/66App)** — Fashion social commerce platform for Thai Gen Z · Flutter + Go
+- **[Aroy](https://github.com/BBQThai/BBQ_Thai)** — Workplace celebration SaaS for Thailand · Next.js + Node.js
