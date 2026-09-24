@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&text=Selmer%20James%20Solland&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Dev%20%C2%B7%20Go%20%C2%B7%20Flutter%20%C2%B7%20TypeScript&descSize=18&descAlignY=72)
 
-<a href="https://github.com/Sparrow447"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=BD93F9&center=true&vCenter=true&width=620&lines=Full-stack+developer+from+Oslo%2C+Norway;Building+products+for+the+Thai+market;Flutter+%2B+Go+%C2%B7+Next.js+%2B+Node.js;Living+in+the+terminal+with+Claude+Code" alt="Typing intro"></a>
+<a href="https://github.com/Sparrow447"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=BD93F9&center=true&vCenter=true&width=620&lines=Full-stack+developer+from+Oslo%2C+Norway;Building+real+products;Flutter+%2B+Go+%C2%B7+Next.js+%2B+Node.js;Living+in+the+terminal+with+Claude+Code" alt="Typing intro"></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selmer-j-solland-12505a251/)
 ![Oslo, Norway](https://img.shields.io/badge/Oslo,%20Norway-282a36?style=flat-square&logo=googlemaps&logoColor=ff79c6)
@@ -13,12 +13,12 @@
 ## who am i?
 
 BSc Information Technology @ OsloMet, Norway.
-Full-stack developer building real products currently focused on the Thai market.
+Full-stack developer building real products.
 
-## what am i working on?
+## projects
 
-- **66App** - Fashion social commerce platform for Thai Gen Z · Flutter + Go
-- **Aroy** - Workplace celebration SaaS for Thailand · Next.js + Node.js
+- **66App** - Fashion social commerce platform · Flutter + Go
+- **Aroy** - Workplace celebration SaaS · Next.js + Node.js
 
 ## open source
 
